@@ -1,8 +1,12 @@
-# Martin-Llama-King
-Llama 7B fine tuned to respond like Martin Luther King using QLoRa.
+# QLoRa Efficient LLM Fine Tuning
+
+This repository contains some explorations of LLM fine tuning with QLoRa. [QLoRa](https://arxiv.org/abs/2305.14314) is an efficient LLM fine tuning method developed by the University of Washington UW NLP Group.
 
 
-[QLoRa](https://arxiv.org/abs/2305.14314) is an efficient LLM fine tuning method developed by the University of Washington UW NLP Group.
 
-This repository uses QLoRa to fine tune a Llama 7B model to respond like Martin Luther King. ie, Martin Llama King.
+The different notebooks contain various LLMs fine tuned on various datasets.
+
+- [GPT-NeoX-20B fine tuned on KK04/LogicInference_OA]()
+
+
 
